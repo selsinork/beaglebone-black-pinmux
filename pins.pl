@@ -2,9 +2,6 @@
 
 use strict;
 
-use Data::Dumper;
-use Data::HexDump;
-
 open(X,'<','3359.txt') || die "can't open file: $!\n";
 
 my @lns=<X>;
