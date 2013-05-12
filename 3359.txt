@@ -1058,6 +1058,7 @@ W11            V10            XTALIN             OSC0_IN                      0 
                                                                                                 (23)         (23)
 W12            U11            XTALOUT            OSC0_OUT                     0         O                                0            VDDS_OSC /   NA    NA (14)      NA          LVCMOS
                                                                                                                                       VDDS_OSC
+A16 A10 WARMRSTn nRESETIN_OUT 0 I/OD 0 0(PU) 0 VDDSHV6 / Yes 4 PU/PD LVCMOS
 
 
 
